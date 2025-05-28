@@ -1,5 +1,7 @@
 # ejemploMiercoles
 
+en verdad todas las respuestas están en <https://google.com>
+
 ## subtitulo
 
 ### otra cosa
