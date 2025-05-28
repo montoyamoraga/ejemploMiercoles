@@ -9,4 +9,7 @@ parece que otro párrafo
 
 * choclo
 * azucar
-  * dos cucharadas de ingenería
+  * dos tab
+ * un tab
+
+  línea sin asterisco con dos tabs
