@@ -31,7 +31,7 @@ esto es con drag and drop, pero no lo hagan
 ![gato](https://github.com/user-attachments/assets/35e86f7b-d039-40a8-b346-53406c9cd293)
 
 
-
+```
 /*
   Blink
 
@@ -69,7 +69,7 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
   delay(1000);                      // wait for a second
 }
-
+```
 
 
 
