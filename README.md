@@ -24,3 +24,10 @@ subir gato en serio
 ![imagen bonita de gato](./imagenes/gato.jpg)
 
 <img src="./imagenes/gato.jpg" alt="imagen bonita de gato" style="width:100px"> 
+
+
+esto es con drag and drop, pero no lo hagan
+
+![gato](https://github.com/user-attachments/assets/35e86f7b-d039-40a8-b346-53406c9cd293)
+
+
