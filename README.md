@@ -2,8 +2,7 @@
 
 en verdad todas las respuestas están en <https://google.com> o [aquí](https://yahoo.com)
 
-ir a <https://github.com/montoyamoraga/ejemploMiercoles/blob/main/bla.html>
-
+ir a <https://montoyamoraga.io/ejemploMiercoles/bla.html>
 
 ## subtitulo
 
