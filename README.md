@@ -1,5 +1,9 @@
 # ejemploMiercoles
 
+## subtitulo
+
+### otra cosa
+
 aksfakjlfjsrf
 
 un párrafo
