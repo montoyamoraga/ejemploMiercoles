@@ -9,7 +9,7 @@ parece que otro párrafo
 
 * choclo
 * azucar
-  * dos tab
+*   dos tab
  * un tab
 
   línea sin asterisco con dos tabs
