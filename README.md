@@ -1,6 +1,7 @@
 # ejemploMiercoles
 
-en verdad todas las respuestas están en <https://google.com>
+en verdad todas las respuestas están en <https://google.com> o [aquí](https://yahoo.com)
+
 
 ## subtitulo
 
