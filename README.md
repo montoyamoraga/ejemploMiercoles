@@ -22,3 +22,5 @@ $$universidad_{udd} + mayo = casi se acaba el semestre$$
 subir gato en serio
 
 ![imagen bonita de gato](./imagenes/gato.jpg)
+
+<img src="./imagenes/gato.jpg" alt="imagen bonita de gato" style="width:100px"> 
